@@ -35,6 +35,7 @@ _***Currently(and future) Learning:***_
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
           <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Php_logo.svg/2560px-Php_logo.svg.png" alt="PHP" width="40" height="40"/>
+          <img src="https://i.pinimg.com/originals/ac/0b/71/ac0b718d995deda3e1e4ee893501324d.png" alt="Kotlin" width="40" height="40"/>
         </p>
       </div>
     </div>
